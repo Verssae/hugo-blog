@@ -1,0 +1,4 @@
+[submodule "archiverss/public"]
+	path = archiverss/public
+	url = https://github.com/Verssae/verssae.github.io.git
+	branch = main
