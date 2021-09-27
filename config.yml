@@ -20,7 +20,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: ArchiVerssae
     description: Verssae's Archives
-    keywords: [Blog, Portfolio, PaperMod]
+    keywords: [Blog, Dev, Computer Science]
     author: Verssae
     # author: ["Me", "You"] # multiple authors
     images: ["/verssae.png"]
@@ -139,8 +139,8 @@ outputs:
 # pygmentsUseClasses: true
 markup:
     highlight:
-        # anchorLineNos: true
+        anchorLineNos: false
         codeFences: true
         guessSyntax: true
-        lineNos: true
-        style: monokai
+        # lineNos: true
+        style: vs
