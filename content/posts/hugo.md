@@ -1,7 +1,7 @@
 ---
 title: "Hugo"
 date: 2021-09-28T10:17:59+09:00
-draft: false
+draft: true
 tags: [hugo, usage]
 summary: Hugo로 블로그 만들기
 ---
