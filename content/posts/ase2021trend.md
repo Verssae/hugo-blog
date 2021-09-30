@@ -5,6 +5,7 @@ draft: true
 tags: ['ASE']
 summary: ASE 2021 논문들의 타이틀 및 초록을 보고 트렌드를 파악한다.
 ---
+[ASE 2021](https://conf.researchr.org/track/ase-2021/ase-2021-papers#event-overview)
 > Title 및 Abstract만 보고 관심 분야에 해당하거나 흥미로운 논문들을 나열해보았다.
 ## 나의 관심 분야
 * Method name suggestion
@@ -34,3 +35,9 @@ Black-box 안드로이드 테스트 도구인 Google Monkey의 무작위 테스�
 
 ### Intelligent Change Operators for Multi-Objective Refactoring
 여러 리팩토링을 함께 적용하는 지능형 변경 연산자를 제안하여 다중 목표 검색 알고리즘에 통합하여 상충되는 품질 문제를 해결하는 유효한 리팩토링 달성
+
+### On Multi-Modal Learning of Editing Source Code
+신경 기계 번역기(NMT)에 편집할 위치, 코드 컨텍스트, 커밋 메시지의 3가지 정보를 활용하여 멀티모달 NMT기반 코드 편집 엔진 구축
+
+### Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code
+코드에 대한 신경 모델의 어텐션 가중치와 전문가의 추론과 어느정도 일치하는지 조사하여 인간 어텐션 맵을 수집 
