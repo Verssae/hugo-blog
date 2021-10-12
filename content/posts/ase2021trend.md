@@ -1,7 +1,7 @@
 ---
 title: "ASE 2021 트렌드 조사"
 date: 2021-09-29T15:51:37+09:00
-draft: true
+draft: false
 tags: ['ASE']
 summary: ASE 2021 논문들의 타이틀 및 초록을 보고 트렌드를 파악한다.
 ---

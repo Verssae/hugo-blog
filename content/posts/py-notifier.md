@@ -1,7 +1,7 @@
 ---
 title: "[Python] 데스크톱 알림 보내기"
 date: 2021-10-03T13:45:36+09:00
-draft: true
+draft: false
 tags: []
 summary: Python으로 데스크톱 푸시 알림을 보내보자
 ---
@@ -33,3 +33,4 @@ Notification(
 * 원격 서버에서 로컬 컴퓨터로 알림 보내기는 당연히 안된다. 
 
 ## 개선 계획
+* 추가 예정
