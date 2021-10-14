@@ -23,3 +23,6 @@ summary: ASE 2020 논문들의 타이틀 및 초록을 보고 트렌드를 파�
 
 ### A deep multitask learning approach for requirements discovery and annotation from open forum
 멀티태스킹 학습으로 대규모 문제 보고서에서 요구사항을 발견하고 자동화된 요구사항 분석을 지원하는 문장에 주석을 다는 효과적인 방법을 제공
+
+### Where shall we log?: studying and suggesting logging locations in code blocks
+소스코드에서 로그를 남길 위치를 제안하는 DNN 프레임워크를 제안
