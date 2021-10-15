@@ -1,7 +1,7 @@
 ---
 title: "ASE 2020 트렌드 조사"
 date: 2021-09-30T14:29:37+09:00
-draft: true
+draft: false
 tags: ['ASE']
 summary: ASE 2020 논문들의 타이틀 및 초록을 보고 트렌드를 파악한다.
 ---
@@ -26,3 +26,11 @@ summary: ASE 2020 논문들의 타이틀 및 초록을 보고 트렌드를 파�
 
 ### Where shall we log?: studying and suggesting logging locations in code blocks
 소스코드에서 로그를 남길 위치를 제안하는 DNN 프레임워크를 제안
+
+### RepoSkillMiner: identifying software expertise from GitHub repositories using natural language processing
+Github 커밋을 분석하여 개발자의 숙련도를 추출하는 프레임워크
+
+### MetPurity: a learning-based tool of pure method identification for automatic test generation
+순수 메소드 식별 분류기를 Random Forest를 사용해 만들어 회귀 테스트에서 assertion을 더 많이 생성할 수 있었음
+
+그닥 재밌어 보이는 게 없다...ㅠㅠ
