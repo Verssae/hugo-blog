@@ -10,11 +10,11 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 
-# googleAnalytics: UA-123-45
+googleAnalytics: G-FPW9BJRN64
 
-minify:
-    disableXML: true
-    minifyOutput: true
+# minify:
+#     disableXML: true
+#     minifyOutput: true
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -150,7 +150,7 @@ privacy:
   disqus:
     disable: true
   googleAnalytics:
-    disable: true
+    disable: false
   instagram:
     disable: true
   twitter:
