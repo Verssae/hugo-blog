@@ -10,7 +10,6 @@ brew install hugo
 * Clone submodules (public, themes/PaperMod) 
 ```
 git submodule update --init
-git submodule foreach checkout main
 ```
 ## New Post
 ```zsh
